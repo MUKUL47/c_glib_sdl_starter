@@ -1,3 +1,0 @@
-/home/mukul/cglib_starter/build/CMakeFiles/MyProject.dir
-/home/mukul/cglib_starter/build/CMakeFiles/edit_cache.dir
-/home/mukul/cglib_starter/build/CMakeFiles/rebuild_cache.dir

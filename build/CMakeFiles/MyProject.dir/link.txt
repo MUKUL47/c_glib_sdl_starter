@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/MyProject.dir/src/main.c.o -o MyProject   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL2.so /usr/lib/x86_64-linux-gnu/libSDL2_ttf.so /usr/lib/x86_64-linux-gnu/libGL.so -lglib-2.0 
